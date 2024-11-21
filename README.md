@@ -41,7 +41,7 @@ Para usar este programa de manera efectiva, el usuario podría seguir estos paso
 ```
 **Inicio del Programa:**
 
-Ejecute el programa DiarioPersonal desde su entorno de desarrollo (por ejemplo, NetBeans) o desde la línea de comandos.
+Ejecute el programa GestionDeportivoPasto desde su entorno de desarrollo (por ejemplo, NetBeans) o desde la línea de comandos.
 Una vez ejecutado, el programa mostrará una interaz web donde tendra que iniciar sesion para poder acceder a las opciones de administrador.
 
 * Añadir un Equipo o Jugador:
@@ -49,7 +49,8 @@ Una vez ejecutado, el programa mostrará una interaz web donde tendra que inicia
 Seleccione la opción "Agregar equipo o jugador" ingresando el número correspondiente en el hombre
 Se le pedirá que ingrese los datos del equipo o jarra
 Después de ingresar la información, el equipo o jarra.
-Consultar Equipos o Jugadores:
+
+*Consultar Equipos o Jugadores:
 
 Seleccione la opción "Consultar equipo o jugador"
 Se mostrará una lista de todos los equipos y jugadores registrados, incl.
@@ -60,7 +61,8 @@ Sí
 Eng.
 Luego, en
 Los datos del equipo o jugador seleccionado serán actualizados con la nueva información proporcionada.
-Eliminar un Equipo o Jugador:
+
+* Eliminar un Equipo o Jugador:
 
 Seleccione la opción "Eliminar equipo o jugador" ingresando el nú
 Se mostrará una lista de todos los equipos y jarra.
@@ -69,8 +71,8 @@ Se le pedi
 Si confirma la eliminación, el equipo o jugador será eliminado del sistema.
 Terminar el programa:
 
-Para salir del programa, seleccione la opción "Terminar programa" ingresando el número corre
-El programa se cerrar *
+* Para salir del programa, seleccione la opción "Terminar programa" ingresando el número corre
+El programa se cerrar 
 
 ================================================================
 
