@@ -84,11 +84,11 @@ Este programa no requiere pruebas automatizadas. Las pruebas se realizan de mane
 
 ## Despliegue (Deployment)
 
-Este programa es de uso local y no requiere despliegue en un sistema en vivo.
+Este programa requiere de un navegador de su preferencia para el despliegue del Programa.
 
 ## Construido con
 
-Este programa fue construido con Java (IDE: NetBeans)
+Este programa fue construido con Java (IDE: NetBeans) y apache TomCat 9.0.97
 
 ## Autor/es
 
